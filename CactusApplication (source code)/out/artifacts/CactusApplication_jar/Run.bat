@@ -1,0 +1,1 @@
+java -Xmx12000M -jar CactusApplication.jar
